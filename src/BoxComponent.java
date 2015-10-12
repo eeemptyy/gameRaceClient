@@ -2,6 +2,12 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import javax.swing.JComponent;
 
+/**
+ * 
+ * @author Jompol Sermsook 5610450063
+ *		        จอมพล	เสริมสุข 
+ */
+
 public class BoxComponent extends JComponent{
 	private static final long serialVersionUID = 1L;
 	private Box box;

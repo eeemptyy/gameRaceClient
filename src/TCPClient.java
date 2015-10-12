@@ -1,6 +1,10 @@
 import java.net.*;
 import java.io.*;
-
+/**
+ * 
+ * @author Jompol Sermsook 5610450063
+ *		        จอมพล	เสริมสุข 
+ */
 public class TCPClient {
 	
 	String sentence, fromSev;

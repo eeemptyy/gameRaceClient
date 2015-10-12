@@ -7,6 +7,12 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+/**
+ * 
+ * @author Jompol Sermsook 5610450063
+ *		        จอมพล	เสริมสุข 
+ */
+
 public class StartUpFrame {
 	
 	JFrame startFrame;
@@ -49,7 +55,7 @@ public class StartUpFrame {
 		ipField.setText("127.0.0.1");
 		portLabel = new JLabel("Port");
 		portField = new JTextField(6);
-		portField.setText("1335");
+		portField.setText("1112");
 		submitIp = new JButton("connect");
 		submitIp.addActionListener(submit);
 	

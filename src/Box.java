@@ -2,6 +2,12 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 
+/**
+ * 
+ * @author Jompol Sermsook 5610450063
+ *		        จอมพล	เสริมสุข 
+ */
+
 public class Box {
 	private Integer x, y, c;
 	private Graphics2D g2;
